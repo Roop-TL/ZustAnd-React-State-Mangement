@@ -1,3 +1,7 @@
+#HOSTED LINK.\
+Open [https://gilded-flan-c78499.netlify.app/](https://gilded-flan-c78499.netlify.app/) to view it in your browser.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
